@@ -1,0 +1,16 @@
+{
+  "name": "cryptography",
+  "version": "1.0.0",
+  "description": "A cryptography code , web3bridge first assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aes-js": "^3.1.2",
+    "ncrypt-js": "^2.0.0"
+  }
+}
